@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chait27
-- 👀 I’m interested in Partical Physics 
+- 👀 I’m interested in Partical and Nuclear Physics 
 - 🌱 I’m currently learning CSC207 - Software Design @ Univesity of Toronto
 - 📫 How to reach me chait.mahajan@mail.utoronto.ca
 
