@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @chait27
-- 👀 I’m interested in Partical and Nuclear Physics 
-- 🌱 I’m currently taking Intro to Machine Learning (CSC311) and Theory of Computation (CSC236) @ UofT
-- 📫 How to reach me chait.mahajan@mail.utoronto.ca
+
